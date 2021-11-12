@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>哈哈哈哈</Text>
+      <Text>我是資工系一年級的李昱澤，綽號是芋頭，喜歡彈鋼琴</Text>
       <StatusBar style="auto" />
     </View>
   );
